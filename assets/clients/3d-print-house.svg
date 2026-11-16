@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="3D Print House logo">
+  <defs><linearGradient id="g" x1="80" x2="440" y1="50" y2="460" gradientUnits="userSpaceOnUse"><stop stop-color="#2ab7e8"/><stop offset="1" stop-color="#13202a"/></linearGradient></defs>
+  <rect width="512" height="512" rx="112" fill="url(#g)"/>
+  <path d="M136 158h130c47 0 78 25 78 64 0 27-14 45-38 55 30 8 49 30 49 63 0 43-34 72-86 72H136v-63h126c18 0 29-9 29-24s-11-24-29-24h-75v-58h70c17 0 27-9 27-23s-10-23-27-23H136v-39Z" fill="#fff"/>
+  <path d="M136 91h98c91 0 153 54 153 165 0 102-57 165-153 165h-98v-63h92c57 0 89-35 89-102 0-70-34-102-89-102h-92V91Z" fill="#fff" fill-opacity=".35"/>
+</svg>
